@@ -35,7 +35,7 @@
         "NPCSpeed": "RUN",
         "NPCMode": "HALT",
         "NPCFaction": "West",
-        "NPCLoadoutFile": "DarkWoodlandLoadout",
+        "NPCLoadoutFile": "EliteLoadout",
         "NPCAccuracyMin": 0.6000000059604645,
         "NPCAccuracyMax": 0.95,
         "ClassNames": [

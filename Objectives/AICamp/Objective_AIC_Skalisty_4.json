@@ -35,7 +35,7 @@
         "NPCSpeed": "RUN",
         "NPCMode": "HALT",
         "NPCFaction": "West",
-        "NPCLoadoutFile": "ERDLLoadout",
+        "NPCLoadoutFile": "BlackLoadout",
         "NPCAccuracyMin": 0.6000000238418579,
         "NPCAccuracyMax": 0.8999999761581421,
         "ClassNames": [
